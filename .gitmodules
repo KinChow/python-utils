@@ -1,0 +1,6 @@
+[submodule "builder"]
+	path = builder
+	url = https://github.com/KinChow/builder.git
+[submodule "device-bridge"]
+	path = device-bridge
+	url = https://github.com/KinChow/device-bridge.git
